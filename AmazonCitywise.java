@@ -180,4 +180,5 @@ public class AmazonCitywise_1 {
             lastAppliedPincode = targetPin;
         }
     }
+
 }
